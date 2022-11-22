@@ -1,1 +1,2 @@
-database connection
+echo "database connection in progress"
+
