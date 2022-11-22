@@ -1,1 +1,3 @@
-database connection
+echo "database connection"
+$db = database
+
