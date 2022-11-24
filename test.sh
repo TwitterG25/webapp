@@ -5,4 +5,7 @@ deploy in the dev environment
 debug any errors§.
 deployment5
 deployment4
-deploy to staging
+deploy to stagin 
+echo good job
+tested and acceppted
+g
